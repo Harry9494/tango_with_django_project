@@ -1,7 +1,7 @@
 # Chapter 3
 from django.test import TestCase
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 import os
 
 #Chapter 4
